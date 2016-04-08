@@ -1,0 +1,24 @@
+{
+  "framework": "aspnetcore",
+  "tests": [{
+    "default": {
+      "setup_file": "setup",
+      "json_url": "/json",
+      "plaintext_url": "/plaintext",
+      "port": 8080,
+      "approach": "Realistic",
+      "classification": "Fullstack",
+      "database": "None",
+      "framework": "aspnetcore",
+      "language": "C#",
+      "orm": "Raw",
+      "platform": "NET",
+      "webserver": "Kestrel",
+      "os": "Linux",
+      "database_os": "Linux",
+      "display_name": "aspnetcore",
+      "notes": "",
+      "versus": ""
+    }
+  }]
+}
